@@ -13,8 +13,7 @@ $ python search_twitter.py <json_in_file_path> <out_file_path>
 ```sh
 $ python cdb.py <db_name> <out_file_path>
 ```
-Default admin name : admin
-Default password : 123456
+Default admin name and password: admin, 123456
 
 # Data Visualization
 This part only includes bubble chart for air quality data and traffic flow data, heatmap for traffic flow data, map for social media data and tweets line chart.
